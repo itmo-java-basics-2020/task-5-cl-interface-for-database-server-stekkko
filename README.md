@@ -1,6 +1,6 @@
 # task5-classes-interfaces-enums
 
-[![Build Status](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-<you-github>.svg?branch=master)](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-<you-github>)
+[![Build Status](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-stekkko.svg?branch=master)](https://travis-ci.com/itmo-java-basics-2020/task5-classes-interfaces-enums-stekkko)
 
 Компания, где Вы работаете разрабатывает собственную СУБД типа ключ-значение. Требования к хранилищу простые - оно должно быть легковесным приложением на Java, которое позволяет долговечно (на диске) хранить пары ключ-значение и быстро (оценки производительность в данной работе не важны) возвращать значение по заданному ключу.
 
